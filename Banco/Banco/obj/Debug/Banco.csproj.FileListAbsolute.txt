@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\Asus\source\repos\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Asus\source\repos\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Asus\source\repos\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Banco\Banco\obj\Debug\Banco.FrmConsignar.resources
+C:\Users\Asus\source\repos\Banco\Banco\obj\Debug\Banco.FrmRetirar.resources
+C:\Users\Asus\source\repos\Banco\Banco\obj\Debug\Banco.FrmMenu.resources
+C:\Users\Asus\source\repos\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Asus\source\repos\Banco\Banco\obj\Debug\Banco.FrmResgistrarCuenta.resources
+C:\Users\Asus\source\repos\Banco\Banco\obj\Debug\Banco.FrmTransferir.resources
+C:\Users\Asus\source\repos\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\Asus\source\repos\Banco\Banco\obj\Debug\Banco.pdb
